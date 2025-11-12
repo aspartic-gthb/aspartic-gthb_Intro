@@ -10,6 +10,7 @@ Welcome to my GitHub profile. I'm an ECE undergraduate at the National Institute
 * Comfortable with **C**, currently exploring **C++** in depth
 * Actively learning **Python** for ML workflows
 * Curious about system design, modeling, and simulation
+* Passionate and enthusiastic about ISRO and Space Programs and its related tech 
 
 ## What I'm Working On
 
