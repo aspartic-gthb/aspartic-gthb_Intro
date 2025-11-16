@@ -1,4 +1,4 @@
-# aspartic-gthb_Intro
+# aspartic-gthb_Introduction
 # Hi, I'm Anirudh (alias aspartic)
 
 Welcome to my GitHub profile. I'm an ECE undergraduate at the National Institute of Technology, Silchar. I enjoy building things that mix electronics, software, and intelligent systems.
